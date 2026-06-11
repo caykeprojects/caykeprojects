@@ -1,4 +1,6 @@
 # 💫 Olá 👋, Eu sou Cayke
+<img width="2000" height="2460" alt="Image" src="https://github.com/user-attachments/assets/294990b7-d85b-4122-902a-2f1e834c5ebf" />
+
 **Um apaixonado por engenharia de Software e Desenvolvimento Web || Engenheiro DevOps || Agente sênior de suporte tecnico**
 
 📧 **Entre em contato comigo:** caykevilani64@gmail.com para colaboração/projetos ou qualquer outra coisa. 😊😊
@@ -17,6 +19,11 @@
 
 # 💻 Stack Tecnológica:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 
 # 📊 Estatísticas do GitHub:
@@ -27,7 +34,7 @@
 ---
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cayke_cardoso_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/cayke-cardoso-vilani-santos-08b365292) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
